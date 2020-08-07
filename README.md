@@ -10,7 +10,7 @@
 ##### Blog posts
 
 <!--START_SECTION:posts-->
-
+...
 <!--END_SECTION:posts-->
 
 <!--

@@ -14,5 +14,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://marcodenisi.dev/it/index.xml
+          feed-url: https://marcodenisi.dev/en/index.xml
           readme-section: posts
