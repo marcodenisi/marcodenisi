@@ -10,11 +10,11 @@
 ##### Blog posts
 
 <!--START_SECTION:posts-->
+* [Fantastic bottlenecks and where to find them](https:&#x2F;&#x2F;marcodenisi.dev&#x2F;en&#x2F;blog&#x2F;fantastic-bottlenecks-and-where-to-find-them&#x2F;)
 * [Good Interviewer](https:&#x2F;&#x2F;marcodenisi.dev&#x2F;en&#x2F;blog&#x2F;good-interviewer&#x2F;)
 * [Business Driven Branching](https:&#x2F;&#x2F;marcodenisi.dev&#x2F;en&#x2F;blog&#x2F;business-driven-branching&#x2F;)
 * [Resilience in microservices era](https:&#x2F;&#x2F;marcodenisi.dev&#x2F;en&#x2F;blog&#x2F;resilience-in-microservices-era&#x2F;)
 * [Why you should use Conventional Commits](https:&#x2F;&#x2F;marcodenisi.dev&#x2F;en&#x2F;blog&#x2F;why-you-should-use-conventional-commits&#x2F;)
-* [Github Actions: a concrete example with Hugo and Latex](https:&#x2F;&#x2F;marcodenisi.dev&#x2F;en&#x2F;blog&#x2F;github-actions-a-concrete-example-with-hugo-and-latex&#x2F;)
 <!--END_SECTION:posts-->
 
 <!--
